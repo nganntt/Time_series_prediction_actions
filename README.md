@@ -1,2 +1,2 @@
-# Time_series_prediction_actions
+# Predict the actions from Time Series Data
 Predict action of machine from time series data
