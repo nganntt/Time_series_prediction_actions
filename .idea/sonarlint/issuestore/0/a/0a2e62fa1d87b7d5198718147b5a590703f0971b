@@ -1,0 +1,20 @@
+
+opython:S117@"SRename this parameter "X_train" to match the regular expression ^[_a-z][a-z0-9_]*$.(³ß†Øûÿÿÿÿ
+Ipython:S1481{"*Remove the unused local variable "sample".(³şé8Ñª¨ºª.
+npython:S117+"WRename this local variable "X_test" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦¤ 
+^python:S3827‰">y is not defined. Change its name or define it before using it(È³µ‡8êá•Àª.
+Opython:S1481¥"/Remove the unused local variable "y_transform".(ûñ½ß8­¡è·ª.
+ypython:S117Â"\Rename this local variable "X_transform" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸÷‰¿ùÿÿÿÿ
+Cpython:S125ñ"Remove this commented out code.(ªƒÙ·ıÿÿÿÿ8ë‚–Àª.
+wpython:S117‚"XRename this local variable "X_model" to match the regular expression ^[_a-z][a-z0-9_]*$.(µÃ€¯8Ì·ºª.
+wpython:S117›"YRename this local variable "X_sample" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ÿò»}8¤Šƒ¸ª.
+opython:S117+"XRename this local variable "X_train" to match the regular expression ^[_a-z][a-z0-9_]*$.(¦¤ 
+|python:S117}"YRename this local variable "sample_X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŒîØÏüÿÿÿÿ8ì¼ı¹ª.
+Tpython:S1481š"/Remove the unused local variable "X_transform".(¸÷‰¿ùÿÿÿÿ8­¡è·ª.
+npython:S117@"RRename this parameter "X_test" to match the regular expression ^[_a-z][a-z0-9_]*$.(³ß†Øûÿÿÿÿ
+python:S117…"bRename this local variable "sample_tranform_X" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÇŒ­œ8ö°ºª.
+Kpython:S1481›",Remove the unused local variable "X_sample".(Ÿò»}8‘ª„¸ª.
+Tpython:S1481Â"/Remove the unused local variable "X_transform".(¸÷‰¿ùÿÿÿÿ8Ò Ü·ª.
+epython:S3827Ğ"Esample_X is not defined. Change its name or define it before using it(Ï¹‚·8›úÎºª.
+spython:S100@"WRename method "train_ANNs_model" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(³ß†Øûÿÿÿÿ
+€python:S117š"\Rename this local variable "X_transform" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸÷‰¿ùÿÿÿÿ8­¡è·ª.
