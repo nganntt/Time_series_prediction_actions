@@ -1,2 +1,2 @@
 # Predict the actions from Time Series Data
-Predict action of machine from time series data
+The machine uses multilayer Neuron Network to build the model. Sensor Data is collected and preprocessing to train the prediction model.
